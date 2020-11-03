@@ -18,3 +18,4 @@ Affective Distant Hearing**](http://ceur-ws.org/Vol-2723/short26.pdf)
 You can also explore the dataset in your browser:
 + [dataset explorer](https://cakiki.github.io/themusedataset/muse)—Lorem Ipsum
 + [dataset stats](https://cakiki.github.io/themusedataset/muse_stats)—Lorem Ipsum
++ [Notebook EDA](https://nbviewer.jupyter.org/github/cakiki/themusedataset/blob/master/eda.ipynb)
