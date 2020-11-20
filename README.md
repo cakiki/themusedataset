@@ -16,6 +16,6 @@ Affective Distant Hearing**](http://ceur-ws.org/Vol-2723/short26.pdf)
 >for the songs, which can be used to add more metadata to the dataset via the Spotify API.
 
 You can also explore the dataset in your browser:
-+ [dataset explorer](https://cakiki.github.io/themusedataset/muse)—Lorem Ipsum
-+ [dataset stats](https://cakiki.github.io/themusedataset/muse_stats)—Lorem Ipsum
-+ [Notebook](https://nbviewer.jupyter.org/github/cakiki/themusedataset/blob/master/eda.ipynb)—Lorem Ipsum
++ [dataset explorer](https://cakiki.github.io/themusedataset/muse)
++ [dataset statistics](https://cakiki.github.io/themusedataset/muse_stats)
++ [Notebook](https://nbviewer.jupyter.org/github/cakiki/themusedataset/blob/master/eda.ipynb) (Work in Progress)
