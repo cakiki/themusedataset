@@ -1,2 +1,5 @@
 muse_final.pkl
 .ipynb_checkpoints/
+*.csv
+*.jsonl
+*.json
