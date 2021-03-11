@@ -1,6 +1,6 @@
 FROM jupyter/base-notebook:latest
 
-RUN pip install pandas nltk scikit-learn seaborn spotipy pylast facets-overview pip install beautifulsoup4
+RUN pip install pandas nltk scikit-learn seaborn spotipy pylast facets-overview pip install beautifulsoup4 bokeh umap-learn[plot]
 
 EXPOSE 8888
 
